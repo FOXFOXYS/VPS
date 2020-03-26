@@ -1,5 +1,3 @@
-CREATION ACCES SSHDans PuttyGen, sélectionnez RSA en Type of key to generate et mettre 4096 en numbers of bit in a generate key. Puis cliquez sur Generate.
-
 ## CREATION ACCES SSH
 * * *
 Il faut dans un premier temps télécharger et installer Putty (https://www.putty.org).
@@ -55,20 +53,3 @@ Puis quittez le terminal en tapant : **exit**
 ![07.png](_resources/0e31106109e6461588db20b583195022.png)
 
 Vous voila fin prét a accéder a votre VPS sans mot de passe =) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
