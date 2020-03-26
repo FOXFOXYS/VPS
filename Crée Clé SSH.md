@@ -26,11 +26,13 @@ Une fois cella fait vous devrais avoir cella .
 ![04.PNG](_resources/14e3a7fb7ed043d29a94cc4ece1c968b.PNG)
 
 En premier temps vous allez sauvegarder vot clé dans un méme dossier de votre choix . 
+
 **ATTENTION A NE PAS PERDRE VOTRE DOSSIER ET CLE SSH** 
 
 voicit les noms de fichier que vous conseille lors de la sauvegarde des clés :
 
 Public Key : **id_rsa.pub.ppk**
+
 Private Key : **id_sa**
 
 Noter à bien différencier les deux clés SSH .
