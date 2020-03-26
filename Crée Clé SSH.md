@@ -1,4 +1,4 @@
-Crée Clé SSH | Windows
+Crée Clé SSH
 
 Tout D'abord Il vous faudra au préalable avoir téléchargé **Putty**
 
